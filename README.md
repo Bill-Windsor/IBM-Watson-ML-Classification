@@ -6,10 +6,10 @@ Machine Learning Classification and Accuracy Score Measurements, evaluating a da
  * Support Vector Machine  
  * Logistic Regression  
 
-assessed using these Accuracy Score Measurements:
- * Jaccard Similarity Score
- * F1-Score
- * LogLoss - for Logistic Regression
+assessed using these Accuracy Score Measurements:  
+ * Jaccard Similarity Score  
+ * F1-Score  
+ * LogLoss - for Logistic Regression  
 
-The project may be rendered  
+The analyses may be rendered and viewed with the Jupyter Notebook Viewer web facility by clicking on this URL:  
 https://nbviewer.jupyter.org/github/Bill-Windsor/IBM-Watson-ML-Classification/blob/master/IBM-Machine-Learning_Final-Project-Classifier.ipynb
