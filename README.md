@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certification: Machine Learning / Classification
 
-Machine Learning Classification and Accuracy Score Measurements, evaluating a dataset for creditworthiness and credit loan performance mapped to socioeconomic and demographic characteristics of the bank's clients. The project performs classification and assessment utilizing these machine learning algorithms:  
+Project Conducting Machine Learning Classification and Accuracy Score Measurements, evaluating a dataset for creditworthiness and credit loan performance mapped to socioeconomic and demographic characteristics of the bank's clients. The project performs classification and assessment using these machine learning algorithms:  
  * K-Nearest Neighbors  
  * Decision Tree  
  * Support Vector Machine  
